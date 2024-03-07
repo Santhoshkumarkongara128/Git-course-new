@@ -43,7 +43,7 @@ Understanding **Git Reflog** :
 + Provides a log of recent actions.  
 + We can use the reflog to restore previously committed changes.
 
-Limitations of Reflog:  
+Limitations of **Reflog** :  
 
 + Local to each user's repository.
 + Retains history for a limited time (default: 90 days).
