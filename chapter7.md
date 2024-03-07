@@ -16,9 +16,8 @@ Use of **git amend** :
 ### Rewrite History with Git Reset  
 
   Introduction to **Git Reset** :  
-
-+ Offers more robust options for modifying commit history.
-+ Provides three options :   
++ Offers more robust options for modifying commit history.  
++ Provides three options :  
   1. soft  
   2. mixed  
   3. hard  
