@@ -1,4 +1,4 @@
-# Course - Git Overview   
+# Course - Git Overview  
 ----------------------
 ## Introduction to Git:   
 
