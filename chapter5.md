@@ -1,4 +1,4 @@
-# Working with Others in a Shared Repository  
+## Working with Others in a Shared Repository  
 ### Git on the Network  
 
 + **Git** operates locally, changes are shared on a network repository.  
