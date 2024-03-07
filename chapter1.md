@@ -1,6 +1,6 @@
 # Course - Git Overview  
-----------------------
-## Introduction to Git:   
+
+## Introduction to Git :  
 
 1. The widely used & popular **version control system** that is used to manage code projects by the big software companies and Startup's around the world.   
 
